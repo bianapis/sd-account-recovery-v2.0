@@ -1,0 +1,12 @@
+{
+  "restructuringUpdateActionTaskRecord" : {},
+  "accountRecoveryProcedureInstanceRecord" : {
+    "linkedProductInstanceReference" : "743428"
+  },
+  "restructuringUpdateActionTaskReference" : "RUATR795989",
+  "updateResponseRecord" : {},
+  "restructuringInstanceRecord" : {
+    "accountRecoveryRestructuringSchedule" : "accountRecoveryRestructuringSchedule",
+    "accountRecoveryCaseRestructuringTaskRecord" : {}
+  }
+}

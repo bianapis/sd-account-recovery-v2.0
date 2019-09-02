@@ -1,0 +1,48 @@
+{
+  "accountRecoveryProcedureInstanceAnalysis" : {
+    "accountRecoveryProcedureInstanceAnalysisReportType" : "accountRecoveryProcedureInstanceAnalysisReportType",
+    "accountRecoveryProcedureInstanceAnalysisData" : "accountRecoveryProcedureInstanceAnalysisData",
+    "accountRecoveryProcedureInstanceAnalysisReport" : {}
+  },
+  "accountRecoveryProcedureInstanceRecord" : {
+    "allowedAccess" : "allowedAccess",
+    "taxReference" : "789395",
+    "transactionRecord" : {},
+    "collateralAssetDescription" : "collateralAssetDescription",
+    "collateralAssetAllocationInstanceRecord" : {},
+    "collateralType" : "collateralType",
+    "accountRecoveryCaseWorkProducts" : {
+      "documentReference" : "703591",
+      "customerCommentary" : "customerCommentary"
+    },
+    "accountType" : "accountType",
+    "accountCurrency" : "USD",
+    "accountNumber" : "accountNumber",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile",
+    "accountRecoveryCaseType" : "accountRecoveryCaseType",
+    "bankBranchLocationReference" : "707260",
+    "linkedProductInstanceReference" : "723151",
+    "accountStatus" : "accountStatus",
+    "productInstanceReference" : "705251",
+    "employeeBusinessUnitReference" : "738093",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "accountLimitType" : "accountLimitType",
+    "accountLimit" : "accountLimit",
+    "involvedPartyReference" : {
+      "involvedPartyObligationEntitlement" : "involvedPartyObligationEntitlement"
+    },
+    "customerReference" : "706830",
+    "accountRecoveryCaseResolutionSchedule" : "accountRecoveryCaseResolutionSchedule",
+    "accountRecoveryCaseStatus" : "accountRecoveryCaseStatus"
+  },
+  "accountRecoveryProcedureRetrieveActionResponse" : "accountRecoveryProcedureRetrieveActionResponse",
+  "accountRecoveryProcedureInstanceReportRecord" : {
+    "accountRecoveryProcedureInstanceReport" : {},
+    "accountRecoveryProcedureInstanceReportData" : "accountRecoveryProcedureInstanceReportData",
+    "accountRecoveryProcedureInstanceReportType" : "accountRecoveryProcedureInstanceReportType"
+  },
+  "accountRecoveryProcedureRetrieveActionTaskRecord" : {},
+  "accountRecoveryProcedureRetrieveActionTaskReference" : "ARPRATR702245"
+}

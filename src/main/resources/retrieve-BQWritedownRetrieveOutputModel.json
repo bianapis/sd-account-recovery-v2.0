@@ -1,0 +1,53 @@
+{
+  "writedownRetrieveActionTaskRecord" : {},
+  "writedownRetrieveActionResponse" : "writedownRetrieveActionResponse",
+  "accountRecoveryProcedureInstanceRecord" : {
+    "allowedAccess" : "allowedAccess",
+    "taxReference" : "773741",
+    "transactionRecord" : {},
+    "collateralAssetDescription" : "collateralAssetDescription",
+    "collateralAssetAllocationInstanceRecord" : {},
+    "collateralType" : "collateralType",
+    "accountRecoveryCaseWorkProducts" : {
+      "documentReference" : "781102",
+      "customerCommentary" : "customerCommentary"
+    },
+    "accountType" : "accountType",
+    "accountCurrency" : "USD",
+    "accountNumber" : "accountNumber",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile",
+    "accountRecoveryCaseType" : "accountRecoveryCaseType",
+    "bankBranchLocationReference" : "767020",
+    "accountStatus" : "accountStatus",
+    "productInstanceReference" : "733600",
+    "employeeBusinessUnitReference" : "777999",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "accountLimitType" : "accountLimitType",
+    "accountLimit" : "accountLimit",
+    "involvedPartyReference" : {
+      "involvedPartyObligationEntitlement" : "involvedPartyObligationEntitlement"
+    },
+    "customerReference" : "707089",
+    "accountRecoveryCaseResolutionSchedule" : "accountRecoveryCaseResolutionSchedule",
+    "accountRecoveryCaseStatus" : "accountRecoveryCaseStatus"
+  },
+  "writedownInstanceReport" : {
+    "writedownInstanceReport" : {},
+    "writedownInstanceReportParameters" : "writedownInstanceReportParameters",
+    "writedownInstanceReportType" : "writedownInstanceReportType",
+    "writedownInstanceReportRecord" : {}
+  },
+  "writedownInstanceAnalysis" : {
+    "writedownInstanceAnalysisReport" : {},
+    "writedownInstanceAnalysisRecord" : {},
+    "writedownInstanceAnalysisParameters" : "writedownInstanceAnalysisParameters",
+    "writedownInstanceAnalysisReportType" : "writedownInstanceAnalysisReportType"
+  },
+  "writedownInstanceRecord" : {
+    "accountRecoveryCaseWritedownTaskRecord" : {},
+    "accountwritedowntransaction" : "accountwritedowntransaction"
+  },
+  "writedownRetrieveActionTaskReference" : "WRATR713879"
+}

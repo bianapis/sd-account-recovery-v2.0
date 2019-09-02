@@ -1,0 +1,54 @@
+{
+  "accountRecoveryProcedureInstanceRecord" : {
+    "allowedAccess" : "allowedAccess",
+    "taxReference" : "737897",
+    "transactionRecord" : {},
+    "collateralAssetDescription" : "collateralAssetDescription",
+    "collateralAssetAllocationInstanceRecord" : {},
+    "collateralType" : "collateralType",
+    "accountRecoveryCaseWorkProducts" : {
+      "documentReference" : "735682",
+      "customerCommentary" : "customerCommentary"
+    },
+    "accountType" : "accountType",
+    "accountCurrency" : "USD",
+    "accountNumber" : "accountNumber",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile",
+    "accountRecoveryCaseType" : "accountRecoveryCaseType",
+    "bankBranchLocationReference" : "730577",
+    "linkedProductInstanceReference" : "770748",
+    "accountStatus" : "accountStatus",
+    "productInstanceReference" : "757010",
+    "employeeBusinessUnitReference" : "796950",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "accountLimitType" : "accountLimitType",
+    "accountLimit" : "accountLimit",
+    "involvedPartyReference" : {
+      "involvedPartyObligationEntitlement" : "involvedPartyObligationEntitlement"
+    },
+    "customerReference" : "764006",
+    "accountRecoveryCaseResolutionSchedule" : "accountRecoveryCaseResolutionSchedule",
+    "accountRecoveryCaseStatus" : "accountRecoveryCaseStatus"
+  },
+  "restructuringInstanceReport" : {
+    "restructuringInstanceReport" : {},
+    "restructuringInstanceReportRecord" : {},
+    "restructuringInstanceReportType" : "restructuringInstanceReportType",
+    "restructuringInstanceReportParameters" : "restructuringInstanceReportParameters"
+  },
+  "restructuringInstanceAnalysis" : {
+    "restructuringInstanceAnalysisParameters" : "restructuringInstanceAnalysisParameters",
+    "restructuringInstanceAnalysisRecord" : {},
+    "restructuringInstanceAnalysisReport" : {},
+    "restructuringInstanceAnalysisReportType" : "restructuringInstanceAnalysisReportType"
+  },
+  "restructuringRetrieveActionTaskRecord" : {},
+  "restructuringRetrieveActionResponse" : "restructuringRetrieveActionResponse",
+  "restructuringInstanceRecord" : {
+    "accountRecoveryRestructuringSchedule" : "accountRecoveryRestructuringSchedule",
+    "accountRecoveryCaseRestructuringTaskRecord" : {}
+  },
+  "restructuringRetrieveActionTaskReference" : "RRATR788803"
+}

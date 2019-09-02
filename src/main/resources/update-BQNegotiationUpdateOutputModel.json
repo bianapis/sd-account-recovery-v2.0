@@ -1,0 +1,13 @@
+{
+  "negotiationInstanceRecord" : {
+    "accountRecoveryCaseNegotiationTaskRecord" : {},
+    "correspondenceReference" : "710059",
+    "accountRecoveryGuidelines" : "accountRecoveryGuidelines",
+    "correspondenceContent" : "correspondenceContent",
+    "documentReference" : "735204",
+    "documentContent" : "documentContent"
+  },
+  "updateResponseRecord" : {},
+  "negotiationUpdateActionTaskReference" : "NUATR791287",
+  "negotiationUpdateActionTaskRecord" : {}
+}

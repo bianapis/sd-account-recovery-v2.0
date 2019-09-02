@@ -1,0 +1,53 @@
+{
+  "accountRecoveryProcedureInstanceRecord" : {
+    "allowedAccess" : "allowedAccess",
+    "taxReference" : "757034",
+    "transactionRecord" : {},
+    "collateralAssetDescription" : "collateralAssetDescription",
+    "collateralAssetAllocationInstanceRecord" : {},
+    "collateralType" : "collateralType",
+    "accountRecoveryCaseWorkProducts" : {
+      "documentReference" : "725122",
+      "customerCommentary" : "customerCommentary"
+    },
+    "accountType" : "accountType",
+    "accountCurrency" : "USD",
+    "accountNumber" : "accountNumber",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile",
+    "accountRecoveryCaseType" : "accountRecoveryCaseType",
+    "bankBranchLocationReference" : "789370",
+    "linkedProductInstanceReference" : "701037",
+    "accountStatus" : "accountStatus",
+    "productInstanceReference" : "720134",
+    "employeeBusinessUnitReference" : "787117",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "accountLimitType" : "accountLimitType",
+    "accountLimit" : "accountLimit",
+    "involvedPartyReference" : {
+      "involvedPartyObligationEntitlement" : "involvedPartyObligationEntitlement"
+    },
+    "customerReference" : "798386",
+    "accountRecoveryCaseResolutionSchedule" : "accountRecoveryCaseResolutionSchedule",
+    "accountRecoveryCaseStatus" : "accountRecoveryCaseStatus"
+  },
+  "assessmentInstanceAnalysis" : {
+    "assessmentInstanceAnalysisReport" : {},
+    "assessmentInstanceAnalysisParameters" : "assessmentInstanceAnalysisParameters",
+    "assessmentInstanceAnalysisRecord" : {},
+    "assessmentInstanceAnalysisReportType" : "assessmentInstanceAnalysisReportType"
+  },
+  "assessmentInstanceRecord" : {
+    "accountRecoveryCaseAssessmentTaskRecord" : {}
+  },
+  "assessmentRetrieveActionTaskRecord" : {},
+  "assessmentRetrieveActionResponse" : "assessmentRetrieveActionResponse",
+  "assessmentRetrieveActionTaskReference" : "ARATR701214",
+  "assessmentInstanceReport" : {
+    "assessmentInstanceReportRecord" : {},
+    "assessmentInstanceReportType" : "assessmentInstanceReportType",
+    "assessmentInstanceReport" : {},
+    "assessmentInstanceReportParameters" : "assessmentInstanceReportParameters"
+  }
+}

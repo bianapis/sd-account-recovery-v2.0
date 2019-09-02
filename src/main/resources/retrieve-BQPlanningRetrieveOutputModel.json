@@ -1,0 +1,53 @@
+{
+  "planningRetrieveActionTaskRecord" : {},
+  "accountRecoveryProcedureInstanceRecord" : {
+    "allowedAccess" : "allowedAccess",
+    "taxReference" : "790570",
+    "transactionRecord" : {},
+    "collateralAssetDescription" : "collateralAssetDescription",
+    "collateralAssetAllocationInstanceRecord" : {},
+    "collateralType" : "collateralType",
+    "accountRecoveryCaseWorkProducts" : {
+      "documentReference" : "759785",
+      "customerCommentary" : "customerCommentary"
+    },
+    "accountType" : "accountType",
+    "accountCurrency" : "USD",
+    "accountNumber" : "accountNumber",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile",
+    "accountRecoveryCaseType" : "accountRecoveryCaseType",
+    "bankBranchLocationReference" : "780697",
+    "accountStatus" : "accountStatus",
+    "productInstanceReference" : "771463",
+    "employeeBusinessUnitReference" : "796485",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "accountLimitType" : "accountLimitType",
+    "accountLimit" : "accountLimit",
+    "involvedPartyReference" : {
+      "involvedPartyObligationEntitlement" : "involvedPartyObligationEntitlement"
+    },
+    "customerReference" : "742477",
+    "accountRecoveryCaseResolutionSchedule" : "accountRecoveryCaseResolutionSchedule",
+    "accountRecoveryCaseStatus" : "accountRecoveryCaseStatus"
+  },
+  "planningInstanceAnalysis" : {
+    "planningInstanceAnalysisReportType" : "planningInstanceAnalysisReportType",
+    "planningInstanceAnalysisReport" : {},
+    "planningInstanceAnalysisRecord" : {},
+    "planningInstanceAnalysisParameters" : "planningInstanceAnalysisParameters"
+  },
+  "planningInstanceReport" : {
+    "planningInstanceReportRecord" : {},
+    "planningInstanceReportType" : "planningInstanceReportType",
+    "planningInstanceReportParameters" : "planningInstanceReportParameters",
+    "planningInstanceReport" : {}
+  },
+  "planningInstanceRecord" : {
+    "accountRecoveryCasePlanningTaskRecord" : {},
+    "accountRecoveryPlan" : "accountRecoveryPlan"
+  },
+  "planningRetrieveActionTaskReference" : "ARPRATR728947",
+  "planningRetrieveActionResponse" : "planningRetrieveActionResponse"
+}

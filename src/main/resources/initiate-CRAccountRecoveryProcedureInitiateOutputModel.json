@@ -1,0 +1,19 @@
+{
+  "accountRecoveryProcedureInitiateActionReference" : "ARPIAR788634",
+  "accountRecoveryProcedureInstanceRecord" : {
+    "linkedProductInstanceReference" : "767774",
+    "accountStatus" : "accountStatus",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "accountRecoveryCaseWorkProducts" : {
+      "documentReference" : "735748",
+      "customerCommentary" : "customerCommentary"
+    },
+    "accountRecoveryCaseResolutionSchedule" : "accountRecoveryCaseResolutionSchedule",
+    "accountRecoveryCaseStatus" : "accountRecoveryCaseStatus"
+  },
+  "accountRecoveryProcedureInstanceStatus" : "accountRecoveryProcedureInstanceStatus",
+  "accountRecoveryProcedureInitiateActionRecord" : {},
+  "accountRecoveryProcedureInstanceReference" : "ARPIR716835"
+}

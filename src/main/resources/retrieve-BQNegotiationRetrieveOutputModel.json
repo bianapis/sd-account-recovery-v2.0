@@ -1,0 +1,57 @@
+{
+  "negotiationInstanceAnalysis" : {
+    "negotiationInstanceAnalysisReport" : {},
+    "negotiationInstanceAnalysisParameters" : "negotiationInstanceAnalysisParameters",
+    "negotiationInstanceAnalysisRecord" : {},
+    "negotiationInstanceAnalysisReportType" : "negotiationInstanceAnalysisReportType"
+  },
+  "negotiationInstanceReport" : {
+    "negotiationInstanceReport" : {},
+    "negotiationInstanceReportRecord" : {},
+    "negotiationInstanceReportParameters" : "negotiationInstanceReportParameters",
+    "negotiationInstanceReportType" : "negotiationInstanceReportType"
+  },
+  "negotiationInstanceRecord" : {
+    "accountRecoveryCaseNegotiationTaskRecord" : {},
+    "correspondenceReference" : "712354",
+    "accountRecoveryGuidelines" : "accountRecoveryGuidelines",
+    "correspondenceContent" : "correspondenceContent",
+    "documentReference" : "773601",
+    "documentContent" : "documentContent"
+  },
+  "accountRecoveryProcedureInstanceRecord" : {
+    "allowedAccess" : "allowedAccess",
+    "taxReference" : "745123",
+    "transactionRecord" : {},
+    "collateralAssetDescription" : "collateralAssetDescription",
+    "collateralAssetAllocationInstanceRecord" : {},
+    "collateralType" : "collateralType",
+    "accountRecoveryCaseWorkProducts" : {
+      "documentReference" : "700558",
+      "customerCommentary" : "customerCommentary"
+    },
+    "accountType" : "accountType",
+    "accountCurrency" : "USD",
+    "accountNumber" : "accountNumber",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile",
+    "accountRecoveryCaseType" : "accountRecoveryCaseType",
+    "bankBranchLocationReference" : "701715",
+    "accountStatus" : "accountStatus",
+    "productInstanceReference" : "779748",
+    "employeeBusinessUnitReference" : "720820",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "accountLimitType" : "accountLimitType",
+    "accountLimit" : "accountLimit",
+    "involvedPartyReference" : {
+      "involvedPartyObligationEntitlement" : "involvedPartyObligationEntitlement"
+    },
+    "customerReference" : "772533",
+    "accountRecoveryCaseResolutionSchedule" : "accountRecoveryCaseResolutionSchedule",
+    "accountRecoveryCaseStatus" : "accountRecoveryCaseStatus"
+  },
+  "negotiationRetrieveActionTaskRecord" : {},
+  "negotiationRetrieveActionResponse" : "negotiationRetrieveActionResponse",
+  "negotiationRetrieveActionTaskReference" : "NRATR775958"
+}
